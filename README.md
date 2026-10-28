@@ -2,7 +2,8 @@
 
 <img src="https://img.shields.io/badge/CLINICA%20CHIMICA%20ACTA-SUPPLEMENTARY%20MATERIAL-555BA6?style=for-the-badge&amp;labelColor=333333" alt="Clinica Chimica Acta — Supplementary Material" />
 
-[![DOI](https://zenodo.org/badge/1437428675.svg)](https://doi.org/10.5281/zenodo.23740272)
+[![DOI](https://zenodo.org/badge/1437641291.svg)](https://doi.org/10.5281/zenodo.23746520)
+
 
 
 <h1>LabRI: a data-source-agnostic, multi-method statistical consensus framework for laboratory reference interval estimation</h1>
